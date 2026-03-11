@@ -1,0 +1,28 @@
+{
+  "cli_version": "0.4.5",
+  "checkpoint_id": "1859014aa4f6",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 3,
+  "files_touched": [
+    "dossier_podyanov.md",
+    "dossier_saifulina.md",
+    "dossier_tikhomirov.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/18/59014aa4f6/0/metadata.json",
+      "transcript": "/18/59014aa4f6/0/full.jsonl",
+      "context": "/18/59014aa4f6/0/context.md",
+      "content_hash": "/18/59014aa4f6/0/content_hash.txt",
+      "prompt": "/18/59014aa4f6/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 21378,
+    "cache_creation_tokens": 1065349,
+    "cache_read_tokens": 22666404,
+    "output_tokens": 169017,
+    "api_call_count": 305
+  }
+}
