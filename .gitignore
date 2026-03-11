@@ -2,3 +2,5 @@
 *.pdf
 *.mp4
 .claude/
+.entire/
+.env
