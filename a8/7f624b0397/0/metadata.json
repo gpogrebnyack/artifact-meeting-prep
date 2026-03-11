@@ -1,0 +1,35 @@
+{
+  "cli_version": "0.4.5",
+  "checkpoint_id": "a87f624b0397",
+  "session_id": "3134e705-dcdc-4281-af28-095ef7b9329f",
+  "strategy": "manual-commit",
+  "created_at": "2026-03-11T04:40:12.137267Z",
+  "branch": "main",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "dossier_vysotina_v2.md",
+    "dossier_vysotina_v3.md"
+  ],
+  "agent": "Claude Code",
+  "turn_id": "d7ede95cc716",
+  "transcript_identifier_at_start": "eb48ea5b-0907-4ffb-af1b-655b082a3771",
+  "checkpoint_transcript_start": 2593,
+  "transcript_lines_at_start": 2593,
+  "token_usage": {
+    "input_tokens": 4,
+    "cache_creation_tokens": 660,
+    "cache_read_tokens": 72445,
+    "output_tokens": 323,
+    "api_call_count": 2
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-03-11T04:40:10.939986Z",
+    "agent_lines": 0,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 0,
+    "agent_percentage": 0
+  },
+  "transcript_path": ".claude/projects/-Users-gpogrebnyak-Downloads-Omniscient/3134e705-dcdc-4281-af28-095ef7b9329f.jsonl"
+}
