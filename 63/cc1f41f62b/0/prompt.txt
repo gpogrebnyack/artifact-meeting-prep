@@ -14,7 +14,7 @@
 
 ---
 
-Вот сервисный ключ REDACTED
+Вот сервисный ключ 8b5574868b5574868b557486e5886a42c388b558b557486e2fec8dad70b5e10ce023ff3
 
 ---
 
@@ -979,7 +979,7 @@ Summary:
 
 2. Key Technical Concepts:
    - **Apify API** (direct curl calls, not MCP) — token: `REDACTED`, plan: STARTER ($29/mo)
-   - **VK API** with service token `REDACTED` — methods: wall.get, wall.search, groups.getById, users.get (users.search NOT available with service token)
+   - **VK API** with service token `8b5574868b5574868b557486e5886a42c388b558b557486e2fec8dad70b5e10ce023ff3` — methods: wall.get, wall.search, groups.getById, users.get (users.search NOT available with service token)
    - **Apify Website Content Crawler** (`apify~website-content-crawler`) with `crawlerType: "playwright:firefox"` — fallback for JS-rendered pages (~$0.01/page)
    - **Parallel agent architecture** — 3 background agents (media, social, company) run simultaneously for dossier collection
    - **Apify actors tested and working**: `apify/instagram-profile-scraper`, `apify/instagram-scraper`, `lazyscraper/facebook-profile-scraper`, `dev_fusion/Linkedin-Profile-Scraper`, `streamers/youtube-scraper`
@@ -1029,7 +1029,7 @@ Summary:
    - "то что акторы платные - не проблема, скажи что нужно сделать, я оплачу"
    - "я оплатил подписку, проверь что все нужные акторы доступны"
    - "вк очень дорогой, 20 баксов в месяц, у нас точно нет других вариантов? плюс напомню что нам нужны не только посты, а ещё и поиск персоналий"
-   - "Вот сервисный ключ REDACTED"
+   - "Вот сервисный ключ 8b5574868b5574868b557486e5886a42c388b558b557486e2fec8dad70b5e10ce023ff3"
    - "давай!" (to test skill on new case — chose Высотина again)
    - "давай подумаем как гарантировано извлекать контент из статей, чтобы не получилось ситуации как с НГС"
    - "давай протестируем на новом кейсе - Михаил Гавриш, Новокузнецк, школа 'Интеллект' https://inacademia.ru/"
